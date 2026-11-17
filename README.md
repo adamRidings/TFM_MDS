@@ -11,4 +11,4 @@
 Explorando ideas
 
 ### Ideas
-[Docs ideas](https://drive.google.com/file/d/1V9vKUnNRO1_OZseMajFHLm8uV0t-Tqi8/view?usp=sharing)
+[Docs ideas](docs/entregas/00_iddeas.md)
