@@ -11,4 +11,4 @@
 Explorando ideas
 
 ### Ideas
-[Docs ideas](docs/entregas/00_iddeas.md)
+[Docs ideas](docs/entregas/00_ideas.md)
